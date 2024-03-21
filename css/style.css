@@ -1,0 +1,7 @@
+.footer {
+    background-color: #f8f9fa; /* cor de fundo do rodapé */
+    padding: 20px 0; /* espaçamento interno do rodapé */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
