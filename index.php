@@ -17,10 +17,15 @@
             include_once("controller/verurl.php");
             $redirecionar = new VerUrl();
             $redirecionar->trocarUrl(@$_GET['secao']);
-        
         ?>
+
+
+
     </main>
     <?php include("includes/rodape.php");?>
+    
+    
+    
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
